@@ -1,3 +1,6 @@
+# NOTE this will be eventualy part of the script itself
+# I want to play with parameter autocomplete here for a bit
+
 from argparse import ArgumentParser
 
 parser = ArgumentParser()
